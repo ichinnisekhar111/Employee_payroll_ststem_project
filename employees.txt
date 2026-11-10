@@ -1,0 +1,4 @@
+101,siddu,developer,full_time,NA,NA,50000
+102,lucky,tester,part_time,90,100,NA
+103,oG,gangstar,full_time,NA,NA,150000
+104,jadal,hero,part_time,120,200,NA
